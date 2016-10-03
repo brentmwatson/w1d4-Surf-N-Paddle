@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+.debug {
+  border: 1px solid red;
+  background: url(http://snugug.github.io/responsive-grids/images/symmetric-grid-bootstrap.png);
+  background-size: contain;
+  height: 500px;
+}
+/*HEADER FORMATTING*/
+.jumbotron{
+  background-image: url("../img/paddle image.jpg");
+  height:300px;
+}
+.page-header{
+  height: 100px;
+  color: white;
+  text-align: center;
+
+}
+.navbar-brand{
+
+}
+/*.container-fluid{
+max-width: 960px;
+
+}*/
+
+
+
+
+/*FOOTER FORMATTING*/
+.footer-text{
+  text-align: center;
+  font-size: 50px;
+}
+.panel-body{
+  align-items:center;
+}
+
+.thumbnail {
+  display: inline-block;
+  margin: 0;
+  height: 300px;
+  width: 300px;
+  border: 0;
+  padding: 0;
+
+}
+.caption{
+  position: absolute;
+  top: 200px;
+  width: 100%;
+}
+
+h3{
+  color: white;
+}
